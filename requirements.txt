@@ -1,0 +1,15 @@
+numpy
+matplotlib
+pandas
+tweepy
+textblob
+folium
+geopy
+textblob
+nltk
+pillow
+scikit-learn
+deep-translator
+pickle
+wordcloud
+collections
