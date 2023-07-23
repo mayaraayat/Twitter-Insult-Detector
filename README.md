@@ -26,6 +26,7 @@ Install the required dependencies by running the following command:
 pip install -r requirements.txt
 
 ## Usage
+You will need API Keys to use our insult detector. 
 
 Three main usages can be enumerated:
 
